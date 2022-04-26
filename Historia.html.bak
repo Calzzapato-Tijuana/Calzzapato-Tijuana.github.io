@@ -1,0 +1,95 @@
+<html> 
+<head>
+<title>Calzzaptato</title>
+<link rel="shorcut icon" href="logo2.png">
+<link rel="stylesheet" href="estilo.css">
+
+</head>
+<body>
+<a href="Calzzapato.html">
+	<img src=logo.png width="250" heigth="200">
+</a>
+<center>
+	<h1 id="fuente-Organic">
+	Nuestra empresa
+	</h1>
+</center>
+<hr>
+<center>
+	<h3>
+		<li>
+		Historia
+		</li>
+	</h3>
+</center>
+<br>
+<table class="tablesh">
+	<tr class="tablesh">
+		<th>
+		El sueño de crear su propia empresa dedicada a la comercialización regional de zapatos para toda la familia, fue concretado en 1977 cuando la familia Sánchez Rodríguez, originaria de Culiacán, inaugura Calzzapato. -Proporcionar productos de calidad a nuestros clientes.
+		</th>
+	</tr>
+</table>
+<br>
+<center>
+	<h3>
+		<li>
+		Vision
+		</li>
+	</h3>
+</center>
+<br>
+<table class="tablesh">
+	<tr class="tablesh">
+		<th>
+		Influir e impactar positivamente en la vida de nuestros consumidores con puntos de venta, productos y servicios que lleguen hasta el último rincón de nuestra región.
+		</th>
+	</tr>
+</table>
+<br>
+<center>
+	<h3>
+		<li>
+		Mision
+		</li>
+	</h3>
+</center>
+<br>
+<table class="tablesh">
+	<tr class="tablesh">
+		<th>
+		Ser el grupo líder regional con mayor variedad de productos, y que estos nos conduzca a un crecimiento a nivel nacional, a través de una infrestructura moderna, venta en línea y plataformas digitales al servicio de nuestros consumidores.
+		</th>
+	</tr>
+</table>
+<br>
+<br>
+<br>
+<table class="sin">
+	<tr>
+		<th><A href="Calzzapato.html"><img src=menu.png width="150" heigth="100"></A>
+		<th><A href="Historia.html"><img src=historia.png width="150" heigth="100"></A>
+		<th><A href="Producto.html"><img src=productos.png width="150" heigth="100"></A>
+		<th><A href="Contacto.html"><img src=contacto.png width="150" heigth="100"></A>
+		<th><A href="Video.html"><img src=video.png width="150" heigth="100"></A>
+	</tr>
+</table>
+<br>
+<br>
+<center>
+<A href="Calzzapato.html.">
+<img src=logo.png width="250" heigth="100">
+</A>
+	<p>
+		&copy:2022. Derechos reservados
+		<br>
+		Desarrollo por:Muñoz Magaña Garardo<br>
+		Matricula:01916924<br>
+		Grupo:605 <br>
+		CoBach Plantel Nueva Tijuana
+	</p>
+</center>
+
+
+</body>
+</html> 
